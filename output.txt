@@ -1,0 +1,2514 @@
+LIST-WHERE-ALL
+********************
+ID: 1
+NAME: There Was a Little Girl: The Real Story of My Mother and Me
+AUTHOR: Brooke Shields
+PRICE: 331.72
+STOCK: 426
+ 
+--------------------------------------------------
+ 
+ID: 5
+NAME: I Want It NOW!
+AUTHOR: Julie Dawn Cole
+PRICE: 132.88
+STOCK: 178
+ 
+--------------------------------------------------
+ 
+ID: 7
+NAME: My Life in High Heels
+AUTHOR: Loni Anderson
+PRICE: 472.8
+STOCK: 843
+ 
+--------------------------------------------------
+ 
+ID: 9
+NAME: Which Reminds Me
+AUTHOR: Tony Randall
+PRICE: 78.2
+STOCK: 338
+ 
+--------------------------------------------------
+ 
+ID: 10
+NAME: Growing Up Brady OR I Was a Teenage Greg
+AUTHOR: Barry Williams
+PRICE: 275.25
+STOCK: 101
+ 
+--------------------------------------------------
+ 
+ID: 11
+NAME: Deep Thoughts From a Hollywood Blonde
+AUTHOR: Jennie Garth
+PRICE: 265.35
+STOCK: 731
+ 
+--------------------------------------------------
+ 
+ID: 14
+NAME: Random Acts of Badness
+AUTHOR: Danny Bonaduce
+PRICE: 246.63
+STOCK: 915
+ 
+--------------------------------------------------
+ 
+ID: 16
+NAME: House of Destiny
+AUTHOR: Janet Leigh
+PRICE: 196.78
+STOCK: 76
+ 
+--------------------------------------------------
+ 
+ID: 21
+NAME: The Girl On the Balcony
+AUTHOR: Olivia Hussey
+PRICE: 389.32
+STOCK: 444
+ 
+--------------------------------------------------
+ 
+ID: 26
+NAME: Dear Me
+AUTHOR: Peter Ustinov
+PRICE: 495.57
+STOCK: 498
+ 
+--------------------------------------------------
+ 
+ID: 27
+NAME: Sister Hollywood
+AUTHOR: C.K. Stead
+PRICE: 282.03
+STOCK: 826
+ 
+--------------------------------------------------
+ 
+ID: 30
+NAME: Getting the Pretty Back
+AUTHOR: Molly Ringwald
+PRICE: 327.33
+STOCK: 151
+ 
+--------------------------------------------------
+ 
+ID: 32
+NAME: Fonda: My Life
+AUTHOR: Henry Fonda
+PRICE: 439.8
+STOCK: 900
+ 
+--------------------------------------------------
+ 
+ID: 33
+NAME: Busey-isms
+AUTHOR: Gary Busey
+PRICE: 290.03
+STOCK: 237
+ 
+--------------------------------------------------
+ 
+ID: 34
+NAME: The Black Dahlia
+AUTHOR: James Ellroy
+PRICE: 281.52
+STOCK: 212
+ 
+--------------------------------------------------
+ 
+ID: 35
+NAME: Our Gal Cal
+AUTHOR: Cheryl Jordan
+PRICE: 282.17
+STOCK: 941
+ 
+--------------------------------------------------
+ 
+ID: 36
+NAME: Playing the Field: Sex, Stardom, Love, and Life in Hollywood
+AUTHOR: Mamie Van Doren
+PRICE: 388.04
+STOCK: 923
+ 
+--------------------------------------------------
+ 
+ID: 40
+NAME: Hello Darlin': Tall – and Absolutely True – Tales From My Life
+AUTHOR: Larry Hagman
+PRICE: 337.69
+STOCK: 870
+ 
+--------------------------------------------------
+ 
+ID: 41
+NAME: Lucky Man
+AUTHOR: Michael J. Fox
+PRICE: 263.51
+STOCK: 15
+ 
+--------------------------------------------------
+ 
+ID: 43
+NAME: I Should Have Stayed Home
+AUTHOR: Horace McCoy
+PRICE: 271.77
+STOCK: 706
+ 
+--------------------------------------------------
+ 
+ID: 47
+NAME: C'mon, Get Happy: Fear and Loathing On the Partridge Family Bus
+AUTHOR: David Cassidy
+PRICE: 169.29
+STOCK: 66
+ 
+--------------------------------------------------
+ 
+ID: 48
+NAME: Things I've Said, But Probably Shouldn't Have: an Unrepentant Memoir
+AUTHOR: Bruce Dern
+PRICE: 241.99
+STOCK: 179
+ 
+--------------------------------------------------
+ 
+ID: 59
+NAME: Screenplay
+AUTHOR: MacDonald Harris
+PRICE: 115.74
+STOCK: 463
+ 
+--------------------------------------------------
+ 
+ID: 62
+NAME: One Man Tango
+AUTHOR: Anthony Quinn
+PRICE: 356.46
+STOCK: 388
+ 
+--------------------------------------------------
+ 
+ID: 64
+NAME: Nigger
+AUTHOR: Dick Gregory
+PRICE: 217.48
+STOCK: 516
+ 
+--------------------------------------------------
+ 
+ID: 84
+NAME: The Way I See It: a Look Back at My Life
+AUTHOR: Melissa Sue Anderson
+PRICE: 359.84
+STOCK: 974
+ 
+--------------------------------------------------
+ 
+ID: 85
+NAME: Master of Ceremonies
+AUTHOR: Joel Grey
+PRICE: 154.16
+STOCK: 573
+ 
+--------------------------------------------------
+ 
+ID: 86
+NAME: A Proper Job
+AUTHOR: Brian Aherne
+PRICE: 146.41
+STOCK: 529
+ 
+--------------------------------------------------
+ 
+ID: 88
+NAME: Steps in Time
+AUTHOR: Fred Astaire
+PRICE: 421.75
+STOCK: 532
+ 
+--------------------------------------------------
+ 
+ID: 89
+NAME: Somebody's Darling
+AUTHOR: Larry McMurtry
+PRICE: 408.64
+STOCK: 961
+ 
+--------------------------------------------------
+ 
+ID: 90
+NAME: Too Much Is Not Enough
+AUTHOR: Orson Bean
+PRICE: 307.31
+STOCK: 505
+ 
+--------------------------------------------------
+ 
+ID: 95
+NAME: They Shoot Horses, Don't They?
+AUTHOR: Horace McCoy
+PRICE: 332.61
+STOCK: 908
+ 
+--------------------------------------------------
+ 
+ID: 98
+NAME: The Dream Factory
+AUTHOR: Janet Leigh
+PRICE: 202.6
+STOCK: 117
+ 
+--------------------------------------------------
+ 
+ID: 101
+NAME: Life On a Pogo Stick
+AUTHOR: Ken Murray
+PRICE: 153.79
+STOCK: 251
+ 
+--------------------------------------------------
+ 
+ID: 103
+NAME: Call Me Anna
+AUTHOR: Patty Duke
+PRICE: 349.49
+STOCK: 710
+ 
+--------------------------------------------------
+ 
+ID: 105
+NAME: The Good, the Bad, and Me
+AUTHOR: Eli Wallach
+PRICE: 196.2
+STOCK: 999
+ 
+--------------------------------------------------
+ 
+ID: 107
+NAME: The Day of the Locust
+AUTHOR: Nathanael West
+PRICE: 170.84
+STOCK: 986
+ 
+--------------------------------------------------
+ 
+ID: 109
+NAME: I'm Losing You
+AUTHOR: Bruce Wagner
+PRICE: 185.45
+STOCK: 767
+ 
+--------------------------------------------------
+ 
+ID: 110
+NAME: Bring On The Empty Horses
+AUTHOR: David Niven
+PRICE: 283.27
+STOCK: 526
+ 
+--------------------------------------------------
+ 
+ID: 112
+NAME: That's Another Story
+AUTHOR: Julie Walters
+PRICE: 91.27
+STOCK: 804
+ 
+--------------------------------------------------
+ 
+ID: 116
+NAME: A Kentish Lad
+AUTHOR: Frank Muir
+PRICE: 155.26
+STOCK: 252
+ 
+--------------------------------------------------
+ 
+ID: 118
+NAME: "Do You Want to Go With Me?" (Willst du mit mir gehn?)
+AUTHOR: Nena
+PRICE: 250.37
+STOCK: 438
+ 
+--------------------------------------------------
+ 
+ID: 119
+NAME: Living Like Ed: A Guide to the Eco-Friendly Life
+AUTHOR: Ed Begley, Jr.
+PRICE: 251.69
+STOCK: 207
+ 
+--------------------------------------------------
+ 
+ID: 121
+NAME: Blessings in Disguise
+AUTHOR: Alec Guinness
+PRICE: 384.94
+STOCK: 795
+ 
+--------------------------------------------------
+ 
+ID: 123
+NAME: The Deer Park
+AUTHOR: Norman Mailer
+PRICE: 133.17
+STOCK: 436
+ 
+--------------------------------------------------
+ 
+ID: 124
+NAME: After Many a Summer
+AUTHOR: Aldous Huxley
+PRICE: 441.45
+STOCK: 537
+ 
+--------------------------------------------------
+ 
+ID: 126
+NAME: What Ever Happened to Baby Jane?
+AUTHOR: Henry Farrell
+PRICE: 312.92
+STOCK: 298
+ 
+--------------------------------------------------
+ 
+ID: 127
+NAME: Back To the Batcave
+AUTHOR: Adam West
+PRICE: 369.98
+STOCK: 28
+ 
+--------------------------------------------------
+ 
+ID: 130
+NAME: Uncharted Territori
+AUTHOR: Tori Spelling
+PRICE: 98.44
+STOCK: 819
+ 
+--------------------------------------------------
+ 
+ID: 132
+NAME: Let the Magic Begin
+AUTHOR: Cathy Lee Crosby
+PRICE: 470.56
+STOCK: 9
+ 
+--------------------------------------------------
+ 
+ID: 138
+NAME: Jakhan Choto Chilam
+AUTHOR: Satyajit Ray
+PRICE: 292.14
+STOCK: 286
+ 
+--------------------------------------------------
+ 
+ID: 140
+NAME: A Positively Final Appearance
+AUTHOR: Alec Guinness
+PRICE: 470.98
+STOCK: 214
+ 
+--------------------------------------------------
+ 
+ID: 142
+NAME: The Goodbye People
+AUTHOR: Gavin Lambert
+PRICE: 180.37
+STOCK: 43
+ 
+--------------------------------------------------
+ 
+ID: 145
+NAME: Wake Me When It's Funny
+AUTHOR: Garry Marshall
+PRICE: 118.53
+STOCK: 187
+ 
+--------------------------------------------------
+ 
+ID: 151
+NAME: Melissa Explains It All
+AUTHOR: Melissa Joan Hart
+PRICE: 264.16
+STOCK: 585
+ 
+--------------------------------------------------
+ 
+ID: 155
+NAME: Mr. T
+AUTHOR: Mr. T
+PRICE: 120.25
+STOCK: 813
+ 
+--------------------------------------------------
+ 
+ID: 157
+NAME: That's NOT All, Folks
+AUTHOR: Mel Blanc
+PRICE: 265.94
+STOCK: 235
+ 
+--------------------------------------------------
+ 
+ID: 158
+NAME: Here's the Story: Surviving Marcia Brady and Finding My True Voice
+AUTHOR: Maureen McCormick
+PRICE: 346.48
+STOCK: 950
+ 
+--------------------------------------------------
+ 
+ID: 159
+NAME: The Quality of Mercy
+AUTHOR: Mercedes McCambridge
+PRICE: 431.3
+STOCK: 33
+ 
+--------------------------------------------------
+ 
+ID: 162
+NAME: Myra Breckinridge
+AUTHOR: Gore Vidal
+PRICE: 297.31
+STOCK: 61
+ 
+--------------------------------------------------
+ 
+ID: 166
+NAME: Underneath It All
+AUTHOR: Traci Lords
+PRICE: 475.52
+STOCK: 499
+ 
+--------------------------------------------------
+ 
+ID: 167
+NAME: The Twins of Tribeca
+AUTHOR: Rachel Pine
+PRICE: 296.04
+STOCK: 137
+ 
+--------------------------------------------------
+ 
+ID: 172
+NAME: Untied
+AUTHOR: Meredith Baxter
+PRICE: 210.64
+STOCK: 540
+ 
+--------------------------------------------------
+ 
+ID: 179
+NAME: Always Looking Up
+AUTHOR: Michael J. Fox
+PRICE: 269.29
+STOCK: 491
+ 
+--------------------------------------------------
+ 
+ID: 181
+NAME: Gunny's Rules: How To Get Squared Away Like a Marine
+AUTHOR: R. Lee Ermey
+PRICE: 112.87
+STOCK: 54
+ 
+--------------------------------------------------
+ 
+ID: 190
+NAME: Run, Holly! Run!
+AUTHOR: Kathy Coleman
+PRICE: 420.44
+STOCK: 949
+ 
+--------------------------------------------------
+ 
+ID: 195
+NAME: Something Like an Autobiography
+AUTHOR: Akira Kurosawa
+PRICE: 322.99
+STOCK: 184
+ 
+--------------------------------------------------
+ 
+ID: 199
+NAME: What's It All About; The Elephant to Hollywood
+AUTHOR: Michael Caine
+PRICE: 323.98
+STOCK: 191
+ 
+--------------------------------------------------
+ 
+ID: 202
+NAME: There I Go Again
+AUTHOR: William Daniels
+PRICE: 163.61
+STOCK: 837
+ 
+--------------------------------------------------
+ 
+ID: 204
+NAME: Myron
+AUTHOR: Gore Vidal
+PRICE: 440.98
+STOCK: 981
+ 
+--------------------------------------------------
+ 
+ID: 208
+NAME: I'm a Believer
+AUTHOR: Micky Dolenz
+PRICE: 398.53
+STOCK: 162
+ 
+--------------------------------------------------
+ 
+ID: 222
+NAME: Room to Grow: an Appetite for Life
+AUTHOR: Tracey Gold
+PRICE: 165.36
+STOCK: 251
+ 
+--------------------------------------------------
+ 
+ID: 224
+NAME: How a Shakespearean Prepares
+AUTHOR: Michael York
+PRICE: 375.37
+STOCK: 949
+ 
+--------------------------------------------------
+ 
+ID: 232
+NAME: Out Came the Sun
+AUTHOR: Mariel Hemingway
+PRICE: 183
+STOCK: 52
+ 
+--------------------------------------------------
+ 
+ID: 240
+NAME: Hope of Heaven
+AUTHOR: John O'Hara
+PRICE: 371.75
+STOCK: 804
+ 
+--------------------------------------------------
+ 
+ID: 247
+NAME: Leaving a Doll's House
+AUTHOR: Claire Bloom
+PRICE: 290.66
+STOCK: 829
+ 
+--------------------------------------------------
+ 
+ID: 248
+NAME: This Terrible Business Has Been Good To Me
+AUTHOR: Norman Jewison
+PRICE: 239.51
+STOCK: 815
+ 
+--------------------------------------------------
+ 
+ID: 254
+NAME: Lessons In Becoming Myself
+AUTHOR: Ellen Burstyn
+PRICE: 430.12
+STOCK: 238
+ 
+--------------------------------------------------
+ 
+ID: 257
+NAME: Prince Bart
+AUTHOR: Jay Richard Kennedy
+PRICE: 283.03
+STOCK: 173
+ 
+--------------------------------------------------
+ 
+ID: 262
+NAME: An Actor's Life
+AUTHOR: Gregory Peck
+PRICE: 300.53
+STOCK: 938
+ 
+--------------------------------------------------
+ 
+ID: 268
+NAME: Life Is Not a Stage: From Broadway Baby to a Lovely Lady and Beyond, with Joel Brokaw
+AUTHOR: Florence Henderson
+PRICE: 214.83
+STOCK: 766
+ 
+--------------------------------------------------
+ 
+ID: 273
+NAME: The Body Brokers
+AUTHOR: Robert P. Eaton
+PRICE: 320.95
+STOCK: 609
+ 
+--------------------------------------------------
+ 
+ID: 275
+NAME: The Zoot Suit Murders
+AUTHOR: Thomas Sanchez
+PRICE: 392.11
+STOCK: 338
+ 
+--------------------------------------------------
+ 
+ID: 276
+NAME: Don't Hassel the Hoff
+AUTHOR: David Hasselhoff
+PRICE: 260.32
+STOCK: 241
+ 
+--------------------------------------------------
+ 
+ID: 277
+NAME: Serenade
+AUTHOR: James M. Cain
+PRICE: 318.69
+STOCK: 77
+ 
+--------------------------------------------------
+ 
+ID: 279
+NAME: Hollywood Rat Race (published posthumously)
+AUTHOR: Ed Wood, Jr.
+PRICE: 262.64
+STOCK: 129
+ 
+--------------------------------------------------
+ 
+ID: 283
+NAME: Down Came the Rain: My Journey Through Postpartum Depression
+AUTHOR: Brooke Shields
+PRICE: 174.78
+STOCK: 716
+ 
+--------------------------------------------------
+ 
+ID: 288
+NAME: A Paper Life
+AUTHOR: Tatum O'Neal
+PRICE: 238.38
+STOCK: 781
+ 
+--------------------------------------------------
+ 
+ID: 289
+NAME: Hollywood
+AUTHOR: Gore Vidal
+PRICE: 179.5
+STOCK: 607
+ 
+--------------------------------------------------
+ 
+ID: 293
+NAME: The Dream Merchants
+AUTHOR: Harold Robbins
+PRICE: 238.86
+STOCK: 940
+ 
+--------------------------------------------------
+ 
+ID: 299
+NAME: Beam Me Up, Scotty
+AUTHOR: James Doohan
+PRICE: 458.5
+STOCK: 867
+ 
+--------------------------------------------------
+ 
+ID: 306
+NAME: I Was Saved by the Bell: Stories of Life, Love, and Dreams that Indeed Came True
+AUTHOR: Peter Engel
+PRICE: 209.47
+STOCK: 171
+ 
+--------------------------------------------------
+ 
+ID: 312
+NAME: When I Stop Talking, You'll Know I'm Dead
+AUTHOR: Jerry Weintraub
+PRICE: 283.46
+STOCK: 345
+ 
+--------------------------------------------------
+ 
+ID: 316
+NAME: Coldheart Canyon
+AUTHOR: Clive Barker
+PRICE: 186.47
+STOCK: 165
+ 
+--------------------------------------------------
+ 
+ID: 317
+NAME: Merton of the Movies
+AUTHOR: Harry Leon Wilson
+PRICE: 377.47
+STOCK: 537
+ 
+--------------------------------------------------
+ 
+ID: 318
+NAME: The Facts Of My Life, AKA I Haven't Changed; Only My Strokes Are Diff'rent
+AUTHOR: Charlotte Rae
+PRICE: 105.43
+STOCK: 853
+ 
+--------------------------------------------------
+ 
+ID: 319
+NAME: The Loved One
+AUTHOR: Evelyn Waugh
+PRICE: 67.68
+STOCK: 209
+ 
+--------------------------------------------------
+ 
+ID: 330
+NAME: It Sure Beats Working
+AUTHOR: Robert Mitchum
+PRICE: 257.66
+STOCK: 754
+ 
+--------------------------------------------------
+ 
+ID: 331
+NAME: The Little Sister
+AUTHOR: Raymond Chandler
+PRICE: 289.32
+STOCK: 64
+ 
+--------------------------------------------------
+ 
+ID: 340
+NAME: Dispatches From Armageddon
+AUTHOR: Michael York
+PRICE: 250.83
+STOCK: 377
+ 
+--------------------------------------------------
+ 
+ID: 341
+NAME: Kotter's Back
+AUTHOR: Gabe Kaplan
+PRICE: 283.87
+STOCK: 10
+ 
+--------------------------------------------------
+ 
+ID: 342
+NAME: I Think I'm Outta Here
+AUTHOR: Carroll O'Connor
+PRICE: 252.17
+STOCK: 533
+ 
+--------------------------------------------------
+ 
+ID: 347
+NAME: Chainsaw Confidential: Making the World's Most Notorious Horror Movie
+AUTHOR: Gunnar Hansen
+PRICE: 481.1
+STOCK: 523
+ 
+--------------------------------------------------
+ 
+ID: 349
+NAME: A Brilliant Madness
+AUTHOR: Patty Duke
+PRICE: 316.63
+STOCK: 406
+ 
+--------------------------------------------------
+ 
+ID: 359
+NAME: Of Streets and Stars
+AUTHOR: Alan Marcus
+PRICE: 434.11
+STOCK: 959
+ 
+--------------------------------------------------
+ 
+ID: 365
+NAME: Mary, Mary
+AUTHOR: James Patterson
+PRICE: 362.87
+STOCK: 854
+ 
+--------------------------------------------------
+ 
+ID: 366
+NAME: Epiphany Jones
+AUTHOR: Michael Grothaus
+PRICE: 122.32
+STOCK: 843
+ 
+--------------------------------------------------
+ 
+ID: 370
+NAME: Dancing Barefoot
+AUTHOR: Wil Wheaton
+PRICE: 252.01
+STOCK: 785
+ 
+--------------------------------------------------
+ 
+ID: 371
+NAME: And the Show Goes On
+AUTHOR: Sheldon Leonard
+PRICE: 343.69
+STOCK: 78
+ 
+--------------------------------------------------
+ 
+ID: 377
+NAME: Play It as It Lays
+AUTHOR: Joan Didion
+PRICE: 133.7
+STOCK: 421
+ 
+--------------------------------------------------
+ 
+ID: 378
+NAME: Enter Whining
+AUTHOR: Fran Drescher
+PRICE: 294.67
+STOCK: 816
+ 
+--------------------------------------------------
+ 
+ID: 379
+NAME: Me and the Orgone
+AUTHOR: Orson Bean
+PRICE: 266.14
+STOCK: 132
+ 
+--------------------------------------------------
+ 
+ID: 380
+NAME: The Garner Files
+AUTHOR: James Garner
+PRICE: 278.5
+STOCK: 195
+ 
+--------------------------------------------------
+ 
+ID: 390
+NAME: An Orderly Man
+AUTHOR: Dirk Bogarde
+PRICE: 270.86
+STOCK: 301
+ 
+--------------------------------------------------
+ 
+ID: 391
+NAME: Loose in the Kitchen
+AUTHOR: Kim Hunter
+PRICE: 153.31
+STOCK: 557
+ 
+--------------------------------------------------
+ 
+ID: 398
+NAME: There and Back Again: an Actor's Tale
+AUTHOR: Sean Astin
+PRICE: 260.82
+STOCK: 673
+ 
+--------------------------------------------------
+ 
+ID: 399
+NAME: My Story
+AUTHOR: Ann-Margret
+PRICE: 215.49
+STOCK: 636
+ 
+--------------------------------------------------
+ 
+ID: 406
+NAME: The Late Great Creature
+AUTHOR: Brock Brower
+PRICE: 406.06
+STOCK: 924
+ 
+--------------------------------------------------
+ 
+ID: 407
+NAME: Still Holding
+AUTHOR: Bruce Wagner
+PRICE: 284.95
+STOCK: 944
+ 
+--------------------------------------------------
+ 
+ID: 411
+NAME: Going Vegan
+AUTHOR: Linda Blair
+PRICE: 293.07
+STOCK: 309
+ 
+--------------------------------------------------
+ 
+ID: 415
+NAME: Ernie: the Autobiography
+AUTHOR: Ernest Borgnine
+PRICE: 243.47
+STOCK: 401
+ 
+--------------------------------------------------
+ 
+ID: 420
+NAME: Inside Daisy Clover
+AUTHOR: Gavin Lambert
+PRICE: 323.85
+STOCK: 663
+ 
+--------------------------------------------------
+ 
+ID: 424
+NAME: Badass: A Hard-Earned Guide to Leading Your Life with Style and (the Right) Attitude
+AUTHOR: Shannen Doherty
+PRICE: 342.62
+STOCK: 859
+ 
+--------------------------------------------------
+ 
+ID: 427
+NAME: The Missing Person
+AUTHOR: Doris Grumbach
+PRICE: 336.77
+STOCK: 58
+ 
+--------------------------------------------------
+ 
+ID: 431
+NAME: White Hunter Black Heart
+AUTHOR: Peter Viertel
+PRICE: 320.17
+STOCK: 100
+ 
+--------------------------------------------------
+ 
+ID: 432
+NAME: Beginning
+AUTHOR: Kenneth Branagh
+PRICE: 353.95
+STOCK: 505
+ 
+--------------------------------------------------
+ 
+ID: 437
+NAME: Boy Wonder
+AUTHOR: James Robert Baker
+PRICE: 419.01
+STOCK: 638
+ 
+--------------------------------------------------
+ 
+ID: 438
+NAME: The Measure of a Man: A Spiritual Autobiography
+AUTHOR: Sidney Poitier
+PRICE: 267.18
+STOCK: 321
+ 
+--------------------------------------------------
+ 
+ID: 440
+NAME: Queer People
+AUTHOR: Carroll Graham
+PRICE: 313.15
+STOCK: 843
+ 
+--------------------------------------------------
+ 
+ID: 441
+NAME: Where Have I Been?
+AUTHOR: Sid Caesar
+PRICE: 66.05
+STOCK: 21
+ 
+--------------------------------------------------
+ 
+ID: 446
+NAME: Ride The Tiger
+AUTHOR: Pat Silver-Lasky
+PRICE: 270.5
+STOCK: 1000
+ 
+--------------------------------------------------
+ 
+ID: 449
+NAME: The Dealmakers
+AUTHOR: Charles Dennis
+PRICE: 145.17
+STOCK: 287
+ 
+--------------------------------------------------
+ 
+ID: 450
+NAME: L.A. Confidential
+AUTHOR: James Ellroy
+PRICE: 60.53
+STOCK: 756
+ 
+--------------------------------------------------
+ 
+ID: 455
+NAME: Killing Willis
+AUTHOR: Todd Bridges
+PRICE: 196.67
+STOCK: 559
+ 
+--------------------------------------------------
+ 
+ID: 456
+NAME: My RAD Career
+AUTHOR: Bill Allen
+PRICE: 289.99
+STOCK: 611
+ 
+--------------------------------------------------
+ 
+ID: 457
+NAME: I Know Nothing
+AUTHOR: Andrew Sachs
+PRICE: 256.08
+STOCK: 342
+ 
+--------------------------------------------------
+ 
+ID: 463
+NAME: The Last Tycoon
+AUTHOR: F. Scott Fitzgerald
+PRICE: 165.05
+STOCK: 189
+ 
+--------------------------------------------------
+ 
+ID: 475
+NAME: Full Frontal Nudity
+AUTHOR: Harry Hamlin
+PRICE: 228.12
+STOCK: 992
+ 
+--------------------------------------------------
+ 
+ID: 478
+NAME: When the Smoke Hit the Fan
+AUTHOR: Ralph Bellamy
+PRICE: 434
+STOCK: 694
+ 
+--------------------------------------------------
+ 
+ID: 484
+NAME: Love Affair
+AUTHOR: Robert Carson
+PRICE: 114.05
+STOCK: 390
+ 
+--------------------------------------------------
+ 
+ID: 492
+NAME: Loitering with Intent: The Child
+AUTHOR: Peter O'Toole
+PRICE: 296.6
+STOCK: 305
+ 
+--------------------------------------------------
+ 
+ID: 495
+NAME: My Autobiography
+AUTHOR: Charlie Chaplin
+PRICE: 441.64
+STOCK: 292
+ 
+--------------------------------------------------
+ 
+ID: 504
+NAME: Making It Big In the Movies
+AUTHOR: Richard Kiel
+PRICE: 332.65
+STOCK: 104
+ 
+--------------------------------------------------
+ 
+ID: 510
+NAME: My Life in Action
+AUTHOR: Jackie Chan
+PRICE: 151.19
+STOCK: 645
+ 
+--------------------------------------------------
+ 
+ID: 514
+NAME: A Victorian in Orbit
+AUTHOR: Sir Cedric Hardwicke
+PRICE: 186.2
+STOCK: 912
+ 
+--------------------------------------------------
+ 
+ID: 515
+NAME: Ask Me If I'm Happy
+AUTHOR: Peter Bowles
+PRICE: 325.06
+STOCK: 600
+ 
+--------------------------------------------------
+ 
+ID: 519
+NAME: Reflections: a Life In Two Worlds
+AUTHOR: Ricardo Montalbán
+PRICE: 200.46
+STOCK: 562
+ 
+--------------------------------------------------
+ 
+ID: 520
+NAME: Joyce Grenfell Requests the Pleasure
+AUTHOR: Joyce Grenfell
+PRICE: 306.49
+STOCK: 622
+ 
+--------------------------------------------------
+ 
+ID: 526
+NAME: Little Girl Lost
+AUTHOR: Drew Barrymore
+PRICE: 369.85
+STOCK: 288
+ 
+--------------------------------------------------
+ 
+ID: 530
+NAME: As You Wish
+AUTHOR: Cary Elwes
+PRICE: 323.3
+STOCK: 214
+ 
+--------------------------------------------------
+ 
+ID: 532
+NAME: Easy Street, the Hard Way
+AUTHOR: Ron Perlman
+PRICE: 91.84
+STOCK: 808
+ 
+--------------------------------------------------
+ 
+ID: 534
+NAME: A Prime-Time Life
+AUTHOR: Aaron Spelling
+PRICE: 128.37
+STOCK: 146
+ 
+--------------------------------------------------
+ 
+ID: 535
+NAME: Are You There, Vodka? It's Me, Chelsea
+AUTHOR: Chelsea Handler
+PRICE: 399.17
+STOCK: 457
+ 
+--------------------------------------------------
+ 
+ID: 537
+NAME: True Grandeur
+AUTHOR: Cal R. Barnes
+PRICE: 194.98
+STOCK: 629
+ 
+--------------------------------------------------
+ 
+ID: 539
+NAME: The Silver Castle
+AUTHOR: Clive James
+PRICE: 220.45
+STOCK: 523
+ 
+--------------------------------------------------
+ 
+ID: 543
+NAME: The Carpetbaggers
+AUTHOR: Harold Robbins
+PRICE: 127.51
+STOCK: 259
+ 
+--------------------------------------------------
+ 
+ID: 544
+NAME: Shadows on a Wall
+AUTHOR: Ray Connolly
+PRICE: 255.86
+STOCK: 878
+ 
+--------------------------------------------------
+ 
+ID: 554
+NAME: Confessions of an Actor
+AUTHOR: Laurence Olivier
+PRICE: 383.84
+STOCK: 623
+ 
+--------------------------------------------------
+ 
+ID: 556
+NAME: In the Arena
+AUTHOR: Charlton Heston
+PRICE: 449.39
+STOCK: 880
+ 
+--------------------------------------------------
+ 
+ID: 559
+NAME: Blind in One Ear
+AUTHOR: Patrick Macnee
+PRICE: 463.44
+STOCK: 541
+ 
+--------------------------------------------------
+ 
+ID: 563
+NAME: Blonde
+AUTHOR: Joyce Carol Oates
+PRICE: 55.05
+STOCK: 781
+ 
+--------------------------------------------------
+ 
+ID: 564
+NAME: Hollywood Monster
+AUTHOR: Robert Englund
+PRICE: 398.84
+STOCK: 1
+ 
+--------------------------------------------------
+ 
+ID: 565
+NAME: TH Confidential: the Making of a Movie Star
+AUTHOR: Tab Hunter
+PRICE: 209.16
+STOCK: 70
+ 
+--------------------------------------------------
+ 
+ID: 572
+NAME: A Graveyard for Lunatics
+AUTHOR: Ray Bradbury
+PRICE: 151.14
+STOCK: 168
+ 
+--------------------------------------------------
+ 
+ID: 573
+NAME: Moe Howard and the Three Stooges
+AUTHOR: Moe Howard
+PRICE: 364.85
+STOCK: 877
+ 
+--------------------------------------------------
+ 
+ID: 578
+NAME: I Was That Masked Man
+AUTHOR: Clayton Moore
+PRICE: 358.09
+STOCK: 56
+ 
+--------------------------------------------------
+ 
+ID: 580
+NAME: After All
+AUTHOR: Mary Tyler Moore
+PRICE: 316.1
+STOCK: 606
+ 
+--------------------------------------------------
+ 
+ID: 583
+NAME: The Other Side of Oz
+AUTHOR: Buddy Ebsen
+PRICE: 246.16
+STOCK: 732
+ 
+--------------------------------------------------
+ 
+ID: 586
+NAME: Songs My Mother Taught Me
+AUTHOR: Marlon Brando
+PRICE: 423.77
+STOCK: 839
+ 
+--------------------------------------------------
+ 
+ID: 589
+NAME: My Name Escapes Me
+AUTHOR: Alec Guinness
+PRICE: 269.41
+STOCK: 54
+ 
+--------------------------------------------------
+ 
+ID: 590
+NAME: There Are Worse Things I Could Do
+AUTHOR: Adrienne Barbeau
+PRICE: 284.43
+STOCK: 167
+ 
+--------------------------------------------------
+ 
+ID: 593
+NAME: Are My Blinkers Showing? Film-making & Other Adventures In the New Russia
+AUTHOR: Michael York
+PRICE: 275.61
+STOCK: 912
+ 
+--------------------------------------------------
+ 
+ID: 595
+NAME: A Boy Scout in Hollywood
+AUTHOR: Brian Hayes
+PRICE: 50.69
+STOCK: 139
+ 
+--------------------------------------------------
+ 
+ID: 601
+NAME: True Confessions
+AUTHOR: John Gregory Dunne
+PRICE: 232.18
+STOCK: 719
+ 
+--------------------------------------------------
+ 
+ID: 603
+NAME: My Life
+AUTHOR: Burt Reynolds
+PRICE: 389.37
+STOCK: 463
+ 
+--------------------------------------------------
+ 
+ID: 612
+NAME: Who Censored Roger Rabbit?
+AUTHOR: Gary K. Wolf
+PRICE: 322.08
+STOCK: 450
+ 
+--------------------------------------------------
+ 
+ID: 616
+NAME: Blue Movie
+AUTHOR: Terry Southern
+PRICE: 247.97
+STOCK: 117
+ 
+--------------------------------------------------
+ 
+ID: 620
+NAME: It Would Be So Nice If You Weren't Here: My Journey Through Show Business
+AUTHOR: Charles Grodin
+PRICE: 239.68
+STOCK: 864
+ 
+--------------------------------------------------
+ 
+ID: 628
+NAME: I Wake Up Screaming
+AUTHOR: Steve Fisher
+PRICE: 234.75
+STOCK: 19
+ 
+--------------------------------------------------
+ 
+ID: 629
+NAME: Let's Face It
+AUTHOR: Kirk Douglas
+PRICE: 466.17
+STOCK: 173
+ 
+--------------------------------------------------
+ 
+ID: 637
+NAME: A Way of Life, Like Any Other
+AUTHOR: Darcy O'Brien
+PRICE: 326.43
+STOCK: 24
+ 
+--------------------------------------------------
+ 
+ID: 640
+NAME: Hollywood
+AUTHOR: Charles Bukowski
+PRICE: 372.59
+STOCK: 325
+ 
+--------------------------------------------------
+ 
+ID: 647
+NAME: Don't Tell Dad
+AUTHOR: Peter Fonda
+PRICE: 270.18
+STOCK: 744
+ 
+--------------------------------------------------
+ 
+ID: 648
+NAME: The Magic Lantern
+AUTHOR: Ingmar Bergman
+PRICE: 289.53
+STOCK: 659
+ 
+--------------------------------------------------
+ 
+ID: 655
+NAME: The Pat Hobby Stories
+AUTHOR: F. Scott Fitzgerald
+PRICE: 162.85
+STOCK: 562
+ 
+--------------------------------------------------
+ 
+ID: 667
+NAME: The Comedy Writer
+AUTHOR: Peter Farrelly
+PRICE: 312.06
+STOCK: 851
+ 
+--------------------------------------------------
+ 
+ID: 672
+NAME: The Slide Area
+AUTHOR: Gavin Lambert
+PRICE: 432.12
+STOCK: 621
+ 
+--------------------------------------------------
+ 
+ID: 674
+NAME: Tall, Dark & Gruesome
+AUTHOR: Christopher Lee
+PRICE: 271.16
+STOCK: 195
+ 
+--------------------------------------------------
+ 
+ID: 675
+NAME: Hollywood Adventures
+AUTHOR: Gregory Walcott
+PRICE: 224.15
+STOCK: 96
+ 
+--------------------------------------------------
+ 
+ID: 677
+NAME: Comeback: an Actor's Direction
+AUTHOR: James Fox
+PRICE: 473.62
+STOCK: 457
+ 
+--------------------------------------------------
+ 
+ID: 680
+NAME: Children of Light
+AUTHOR: Robert Stone
+PRICE: 296.22
+STOCK: 310
+ 
+--------------------------------------------------
+ 
+ID: 683
+NAME: Zeffirelli: an Autobiography
+AUTHOR: Franco Zeffirelli
+PRICE: 131.02
+STOCK: 797
+ 
+--------------------------------------------------
+ 
+ID: 689
+NAME: Kaye Warfaring in "Avenged"
+AUTHOR: James McCourt
+PRICE: 447.71
+STOCK: 88
+ 
+--------------------------------------------------
+ 
+ID: 692
+NAME: To Space and Back
+AUTHOR: Mark Goddard
+PRICE: 68.82
+STOCK: 658
+ 
+--------------------------------------------------
+ 
+ID: 697
+NAME: Corey-ography
+AUTHOR: Corey Feldman
+PRICE: 296.84
+STOCK: 275
+ 
+--------------------------------------------------
+ 
+ID: 700
+NAME: You Play the Black and the Red Comes Up
+AUTHOR: Richard Hallas (pseudonym for Eric Knight)
+PRICE: 205.25
+STOCK: 502
+ 
+--------------------------------------------------
+ 
+ID: 701
+NAME: The Big Nowhere
+AUTHOR: James Ellroy
+PRICE: 198.65
+STOCK: 261
+ 
+--------------------------------------------------
+ 
+ID: 703
+NAME: The Conscious Catwoman Explains Life On Earth
+AUTHOR: Julie Newmar
+PRICE: 293.44
+STOCK: 82
+ 
+--------------------------------------------------
+ 
+ID: 706
+NAME: Rebel: My Life Outside the Lines
+AUTHOR: Nick Nolte
+PRICE: 274.77
+STOCK: 56
+ 
+--------------------------------------------------
+ 
+ID: 707
+NAME: I May As Well Laugh About It
+AUTHOR: Marie Osmond
+PRICE: 255.46
+STOCK: 99
+ 
+--------------------------------------------------
+ 
+ID: 709
+NAME: To the Stars
+AUTHOR: George Takei
+PRICE: 293.87
+STOCK: 975
+ 
+--------------------------------------------------
+ 
+ID: 717
+NAME: Normally, This Would Be Cause For Concern: Tales of Calamity and Unrelenting Awkwardness
+AUTHOR: Danielle Fishel
+PRICE: 356.82
+STOCK: 241
+ 
+--------------------------------------------------
+ 
+ID: 720
+NAME: Stories I Only Tell My Friends
+AUTHOR: Rob Lowe
+PRICE: 88.58
+STOCK: 639
+ 
+--------------------------------------------------
+ 
+ID: 722
+NAME: So Far...
+AUTHOR: Kelsey Grammer
+PRICE: 417.01
+STOCK: 680
+ 
+--------------------------------------------------
+ 
+ID: 724
+NAME: Still Me
+AUTHOR: Christopher Reeve
+PRICE: 57.09
+STOCK: 855
+ 
+--------------------------------------------------
+ 
+ID: 730
+NAME: American Prince
+AUTHOR: Tony Curtis
+PRICE: 194.58
+STOCK: 243
+ 
+--------------------------------------------------
+ 
+ID: 735
+NAME: I'll Let You Go
+AUTHOR: Bruce Wagner
+PRICE: 261.41
+STOCK: 486
+ 
+--------------------------------------------------
+ 
+ID: 736
+NAME: All the Days of My Life (So Far), AKA I am Sami, Hear Me Roar!
+AUTHOR: Alison Sweeney
+PRICE: 327.16
+STOCK: 246
+ 
+--------------------------------------------------
+ 
+ID: 738
+NAME: How to Be Sexy
+AUTHOR: Carmen Electra
+PRICE: 220.11
+STOCK: 517
+ 
+--------------------------------------------------
+ 
+ID: 740
+NAME: Accidentally on Purpose
+AUTHOR: Michael York
+PRICE: 253.15
+STOCK: 844
+ 
+--------------------------------------------------
+ 
+ID: 746
+NAME: Lost Girl
+AUTHOR: Kathy Coleman
+PRICE: 138.14
+STOCK: 28
+ 
+--------------------------------------------------
+ 
+ID: 749
+NAME: My Word Is My Bond
+AUTHOR: Roger Moore
+PRICE: 467.4
+STOCK: 369
+ 
+--------------------------------------------------
+ 
+ID: 752
+NAME: All Those Moments
+AUTHOR: Rutger Hauer
+PRICE: 246.85
+STOCK: 410
+ 
+--------------------------------------------------
+ 
+ID: 764
+NAME: The Moon's a Balloon
+AUTHOR: David Niven
+PRICE: 475.57
+STOCK: 765
+ 
+--------------------------------------------------
+ 
+ID: 767
+NAME: Before I Forget
+AUTHOR: James Mason
+PRICE: 77.43
+STOCK: 21
+ 
+--------------------------------------------------
+ 
+ID: 768
+NAME: Harpo Speaks
+AUTHOR: Harpo Marx
+PRICE: 97.16
+STOCK: 295
+ 
+--------------------------------------------------
+ 
+ID: 770
+NAME: Boy Wonder: My Life In Tights
+AUTHOR: Burt Ward
+PRICE: 283.82
+STOCK: 223
+ 
+--------------------------------------------------
+ 
+ID: 773
+NAME: Force Majeure
+AUTHOR: Bruce Wagner
+PRICE: 208.83
+STOCK: 113
+ 
+--------------------------------------------------
+ 
+ID: 774
+NAME: The Longest Trek: My Tour of the Galaxy
+AUTHOR: Grace Lee Whitney
+PRICE: 341.27
+STOCK: 713
+ 
+--------------------------------------------------
+ 
+ID: 777
+NAME: Laughing Gas
+AUTHOR: P.G. Wodehouse
+PRICE: 165.66
+STOCK: 98
+ 
+--------------------------------------------------
+ 
+ID: 782
+NAME: Once Before I Go
+AUTHOR: Wayne Newton
+PRICE: 288.43
+STOCK: 161
+ 
+--------------------------------------------------
+ 
+ID: 790
+NAME: Voices and Silences
+AUTHOR: James Earl Jones
+PRICE: 238.63
+STOCK: 551
+ 
+--------------------------------------------------
+ 
+ID: 792
+NAME: The New Confessions
+AUTHOR: William Boyd
+PRICE: 107.64
+STOCK: 781
+ 
+--------------------------------------------------
+ 
+ID: 796
+NAME: Timebends: A Life
+AUTHOR: Arthur Miller
+PRICE: 339.97
+STOCK: 85
+ 
+--------------------------------------------------
+ 
+ID: 797
+NAME: In the Moment
+AUTHOR: Ben Gazzara
+PRICE: 270.3
+STOCK: 95
+ 
+--------------------------------------------------
+ 
+ID: 802
+NAME: Grace Is Enough
+AUTHOR: Willie Aames
+PRICE: 391.93
+STOCK: 115
+ 
+--------------------------------------------------
+ 
+ID: 808
+NAME: Remember Valerie March
+AUTHOR: Katherine Albert
+PRICE: 357.42
+STOCK: 716
+ 
+--------------------------------------------------
+ 
+ID: 811
+NAME: ...And Myself as the Beaver
+AUTHOR: Jerry Mathers
+PRICE: 255.92
+STOCK: 505
+ 
+--------------------------------------------------
+ 
+ID: 820
+NAME: The Days of My Life
+AUTHOR: Macdonald Carey
+PRICE: 179.84
+STOCK: 661
+ 
+--------------------------------------------------
+ 
+ID: 823
+NAME: Just Tell Me When to Cry
+AUTHOR: Richard Fleischer
+PRICE: 288.57
+STOCK: 550
+ 
+--------------------------------------------------
+ 
+ID: 827
+NAME: Hollywood Wives
+AUTHOR: Jackie Collins
+PRICE: 158.55
+STOCK: 645
+ 
+--------------------------------------------------
+ 
+ID: 835
+NAME: My Life So Far, AKA Working It Out
+AUTHOR: Jane Fonda
+PRICE: 247.05
+STOCK: 202
+ 
+--------------------------------------------------
+ 
+ID: 837
+NAME: Could It Be Forever?
+AUTHOR: David Cassidy
+PRICE: 224.95
+STOCK: 973
+ 
+--------------------------------------------------
+ 
+ID: 841
+NAME: I Am Spock
+AUTHOR: Leonard Nimoy
+PRICE: 306.19
+STOCK: 574
+ 
+--------------------------------------------------
+ 
+ID: 845
+NAME: Safe at Home
+AUTHOR: Alyssa Milano
+PRICE: 267.67
+STOCK: 770
+ 
+--------------------------------------------------
+ 
+ID: 846
+NAME: On Acting
+AUTHOR: Laurence Olivier
+PRICE: 404.08
+STOCK: 946
+ 
+--------------------------------------------------
+ 
+ID: 849
+NAME: I Just Keep Hoping
+AUTHOR: Gloria Stuart
+PRICE: 194.61
+STOCK: 108
+ 
+--------------------------------------------------
+ 
+ID: 850
+NAME: Filling the Gap
+AUTHOR: Terry-Thomas
+PRICE: 454.58
+STOCK: 980
+ 
+--------------------------------------------------
+ 
+ID: 851
+NAME: So Far, So Good
+AUTHOR: Burgess Meredith
+PRICE: 249.53
+STOCK: 900
+ 
+--------------------------------------------------
+ 
+ID: 853
+NAME: Just One More Thing
+AUTHOR: Peter Falk
+PRICE: 264.29
+STOCK: 865
+ 
+--------------------------------------------------
+ 
+ID: 854
+NAME: Medusa's Web
+AUTHOR: Tim Powers
+PRICE: 222.35
+STOCK: 399
+ 
+--------------------------------------------------
+ 
+ID: 858
+NAME: The Player
+AUTHOR: Michael Tolkin
+PRICE: 62.1
+STOCK: 592
+ 
+--------------------------------------------------
+ 
+ID: 868
+NAME: Is There Life Outside the Box?
+AUTHOR: Peter Davison
+PRICE: 272.29
+STOCK: 359
+ 
+--------------------------------------------------
+ 
+ID: 874
+NAME: Jeannie Out of the Bottle
+AUTHOR: Barbara Eden
+PRICE: 118.43
+STOCK: 219
+ 
+--------------------------------------------------
+ 
+ID: 875
+NAME: Lullaby Town
+AUTHOR: Robert Crais
+PRICE: 184.49
+STOCK: 742
+ 
+--------------------------------------------------
+ 
+ID: 876
+NAME: On Your Own
+AUTHOR: Brooke Shields
+PRICE: 165.6
+STOCK: 296
+ 
+--------------------------------------------------
+ 
+ID: 878
+NAME: Coming Attractions
+AUTHOR: Terence Stamp
+PRICE: 217.28
+STOCK: 411
+ 
+--------------------------------------------------
+ 
+ID: 882
+NAME: Shattered Love
+AUTHOR: Richard Chamberlain
+PRICE: 286.82
+STOCK: 718
+ 
+--------------------------------------------------
+ 
+ID: 890
+NAME: Eighty Is Not Enough: One Actor's Journey Through the American Entertainment Industry
+AUTHOR: Dick Van Patten
+PRICE: 174.69
+STOCK: 301
+ 
+--------------------------------------------------
+ 
+ID: 897
+NAME: A Funny Thing Happened On the Way To the Future
+AUTHOR: Michael J. Fox
+PRICE: 324.67
+STOCK: 831
+ 
+--------------------------------------------------
+ 
+ID: 899
+NAME: Never Have Your Dog Stuffed And Other Things I've Learned
+AUTHOR: Alan Alda
+PRICE: 274.44
+STOCK: 790
+ 
+--------------------------------------------------
+ 
+ID: 901
+NAME: White Jazz
+AUTHOR: James Ellroy
+PRICE: 240.25
+STOCK: 765
+ 
+--------------------------------------------------
+ 
+ID: 907
+NAME: Life Lessons From Heavenly Father, AKA I've Taken the Good, I've Taken the Bad...
+AUTHOR: Lisa Whelchel
+PRICE: 286.42
+STOCK: 423
+ 
+--------------------------------------------------
+ 
+ID: 908
+NAME: The Avengers and Me
+AUTHOR: Patrick Macnee
+PRICE: 322.33
+STOCK: 689
+ 
+--------------------------------------------------
+ 
+ID: 917
+NAME: Bad Golf My Way
+AUTHOR: Leslie Nielsen
+PRICE: 247.96
+STOCK: 507
+ 
+--------------------------------------------------
+ 
+ID: 920
+NAME: A View From a Broad
+AUTHOR: Bette Midler
+PRICE: 368.25
+STOCK: 958
+ 
+--------------------------------------------------
+ 
+ID: 923
+NAME: Memoirs of a Professional Cad
+AUTHOR: George Sanders
+PRICE: 319.1
+STOCK: 239
+ 
+--------------------------------------------------
+ 
+ID: 925
+NAME: The Secret of Inner Strength: My Story
+AUTHOR: Chuck Norris
+PRICE: 133.46
+STOCK: 820
+ 
+--------------------------------------------------
+ 
+ID: 927
+NAME: Running Time
+AUTHOR: Gavin Lambert
+PRICE: 286.78
+STOCK: 104
+ 
+--------------------------------------------------
+ 
+ID: 930
+NAME: Valley of the Dolls
+AUTHOR: Jacqueline Susann
+PRICE: 223.95
+STOCK: 759
+ 
+--------------------------------------------------
+ 
+ID: 934
+NAME: An Actor and a Gentleman
+AUTHOR: Louis Gossett Jr.
+PRICE: 85
+STOCK: 835
+ 
+--------------------------------------------------
+ 
+ID: 936
+NAME: What Makes Sammy Run?
+AUTHOR: Budd Schulberg
+PRICE: 237.73
+STOCK: 817
+ 
+--------------------------------------------------
+ 
+ID: 941
+NAME: The Marrakesh One-Two
+AUTHOR: Richard Grenier
+PRICE: 277.07
+STOCK: 422
+ 
+--------------------------------------------------
+ 
+ID: 956
+NAME: Straight Shooting
+AUTHOR: Robert Stack
+PRICE: 289.82
+STOCK: 89
+ 
+--------------------------------------------------
+ 
+ID: 960
+NAME: The Time of My Life
+AUTHOR: Patrick Swayze
+PRICE: 297.91
+STOCK: 922
+ 
+--------------------------------------------------
+ 
+ID: 962
+NAME: Pieces of My Heart
+AUTHOR: Robert Wagner
+PRICE: 308.77
+STOCK: 600
+ 
+--------------------------------------------------
+ 
+ID: 964
+NAME: Stori Telling
+AUTHOR: Tori Spelling
+PRICE: 478.39
+STOCK: 504
+ 
+--------------------------------------------------
+ 
+ID: 965
+NAME: Confessions of a Kamikaze Cowboy
+AUTHOR: Dirk Benedict
+PRICE: 418.43
+STOCK: 616
+ 
+--------------------------------------------------
+ 
+ID: 967
+NAME: I Like What I Know
+AUTHOR: Vincent Price
+PRICE: 307.03
+STOCK: 913
+ 
+--------------------------------------------------
+ 
+ID: 973
+NAME: Me: Stories of My Life
+AUTHOR: Katharine Hepburn
+PRICE: 261.72
+STOCK: 200
+ 
+--------------------------------------------------
+ 
+ID: 974
+NAME: SJ: a Memoir, AKA I Don't Jest, and Please Call Me Shirley!
+AUTHOR: Shirley Jones
+PRICE: 217.16
+STOCK: 661
+ 
+--------------------------------------------------
+ 
+ID: 985
+NAME: Get Shorty
+AUTHOR: Elmore Leonard
+PRICE: 150.97
+STOCK: 508
+ 
+--------------------------------------------------
+ 
+LIST-WHERE-NAME,The New Confessions
+********************
+ID: 792
+NAME: The New Confessions
+AUTHOR: William Boyd
+PRICE: 107.64
+STOCK: 781
+ 
+--------------------------------------------------
+ 
+LIST-WHERE-AUTHOR,Charles Dennis
+********************
+ID: 449
+NAME: The Dealmakers
+AUTHOR: Charles Dennis
+PRICE: 145.17
+STOCK: 287
+ 
+--------------------------------------------------
+ 
+LIST-WHERE-AUTHOR,asd
+********************
+No Book Found!
+ 
+--------------------------------------------------
+ 
+LIST-WHERE-PRICE-GREATER,400.30
+********************
+ID: 7
+NAME: My Life in High Heels
+AUTHOR: Loni Anderson
+PRICE: 472.8
+STOCK: 843
+ 
+--------------------------------------------------
+ 
+ID: 26
+NAME: Dear Me
+AUTHOR: Peter Ustinov
+PRICE: 495.57
+STOCK: 498
+ 
+--------------------------------------------------
+ 
+ID: 32
+NAME: Fonda: My Life
+AUTHOR: Henry Fonda
+PRICE: 439.8
+STOCK: 900
+ 
+--------------------------------------------------
+ 
+ID: 88
+NAME: Steps in Time
+AUTHOR: Fred Astaire
+PRICE: 421.75
+STOCK: 532
+ 
+--------------------------------------------------
+ 
+ID: 89
+NAME: Somebody's Darling
+AUTHOR: Larry McMurtry
+PRICE: 408.64
+STOCK: 961
+ 
+--------------------------------------------------
+ 
+ID: 124
+NAME: After Many a Summer
+AUTHOR: Aldous Huxley
+PRICE: 441.45
+STOCK: 537
+ 
+--------------------------------------------------
+ 
+ID: 132
+NAME: Let the Magic Begin
+AUTHOR: Cathy Lee Crosby
+PRICE: 470.56
+STOCK: 9
+ 
+--------------------------------------------------
+ 
+ID: 140
+NAME: A Positively Final Appearance
+AUTHOR: Alec Guinness
+PRICE: 470.98
+STOCK: 214
+ 
+--------------------------------------------------
+ 
+ID: 159
+NAME: The Quality of Mercy
+AUTHOR: Mercedes McCambridge
+PRICE: 431.3
+STOCK: 33
+ 
+--------------------------------------------------
+ 
+ID: 166
+NAME: Underneath It All
+AUTHOR: Traci Lords
+PRICE: 475.52
+STOCK: 499
+ 
+--------------------------------------------------
+ 
+ID: 190
+NAME: Run, Holly! Run!
+AUTHOR: Kathy Coleman
+PRICE: 420.44
+STOCK: 949
+ 
+--------------------------------------------------
+ 
+ID: 204
+NAME: Myron
+AUTHOR: Gore Vidal
+PRICE: 440.98
+STOCK: 981
+ 
+--------------------------------------------------
+ 
+ID: 254
+NAME: Lessons In Becoming Myself
+AUTHOR: Ellen Burstyn
+PRICE: 430.12
+STOCK: 238
+ 
+--------------------------------------------------
+ 
+ID: 299
+NAME: Beam Me Up, Scotty
+AUTHOR: James Doohan
+PRICE: 458.5
+STOCK: 867
+ 
+--------------------------------------------------
+ 
+ID: 347
+NAME: Chainsaw Confidential: Making the World's Most Notorious Horror Movie
+AUTHOR: Gunnar Hansen
+PRICE: 481.1
+STOCK: 523
+ 
+--------------------------------------------------
+ 
+ID: 359
+NAME: Of Streets and Stars
+AUTHOR: Alan Marcus
+PRICE: 434.11
+STOCK: 959
+ 
+--------------------------------------------------
+ 
+ID: 406
+NAME: The Late Great Creature
+AUTHOR: Brock Brower
+PRICE: 406.06
+STOCK: 924
+ 
+--------------------------------------------------
+ 
+ID: 437
+NAME: Boy Wonder
+AUTHOR: James Robert Baker
+PRICE: 419.01
+STOCK: 638
+ 
+--------------------------------------------------
+ 
+ID: 478
+NAME: When the Smoke Hit the Fan
+AUTHOR: Ralph Bellamy
+PRICE: 434
+STOCK: 694
+ 
+--------------------------------------------------
+ 
+ID: 495
+NAME: My Autobiography
+AUTHOR: Charlie Chaplin
+PRICE: 441.64
+STOCK: 292
+ 
+--------------------------------------------------
+ 
+ID: 556
+NAME: In the Arena
+AUTHOR: Charlton Heston
+PRICE: 449.39
+STOCK: 880
+ 
+--------------------------------------------------
+ 
+ID: 559
+NAME: Blind in One Ear
+AUTHOR: Patrick Macnee
+PRICE: 463.44
+STOCK: 541
+ 
+--------------------------------------------------
+ 
+ID: 586
+NAME: Songs My Mother Taught Me
+AUTHOR: Marlon Brando
+PRICE: 423.77
+STOCK: 839
+ 
+--------------------------------------------------
+ 
+ID: 629
+NAME: Let's Face It
+AUTHOR: Kirk Douglas
+PRICE: 466.17
+STOCK: 173
+ 
+--------------------------------------------------
+ 
+ID: 672
+NAME: The Slide Area
+AUTHOR: Gavin Lambert
+PRICE: 432.12
+STOCK: 621
+ 
+--------------------------------------------------
+ 
+ID: 677
+NAME: Comeback: an Actor's Direction
+AUTHOR: James Fox
+PRICE: 473.62
+STOCK: 457
+ 
+--------------------------------------------------
+ 
+ID: 689
+NAME: Kaye Warfaring in "Avenged"
+AUTHOR: James McCourt
+PRICE: 447.71
+STOCK: 88
+ 
+--------------------------------------------------
+ 
+ID: 722
+NAME: So Far...
+AUTHOR: Kelsey Grammer
+PRICE: 417.01
+STOCK: 680
+ 
+--------------------------------------------------
+ 
+ID: 749
+NAME: My Word Is My Bond
+AUTHOR: Roger Moore
+PRICE: 467.4
+STOCK: 369
+ 
+--------------------------------------------------
+ 
+ID: 764
+NAME: The Moon's a Balloon
+AUTHOR: David Niven
+PRICE: 475.57
+STOCK: 765
+ 
+--------------------------------------------------
+ 
+ID: 846
+NAME: On Acting
+AUTHOR: Laurence Olivier
+PRICE: 404.08
+STOCK: 946
+ 
+--------------------------------------------------
+ 
+ID: 850
+NAME: Filling the Gap
+AUTHOR: Terry-Thomas
+PRICE: 454.58
+STOCK: 980
+ 
+--------------------------------------------------
+ 
+ID: 964
+NAME: Stori Telling
+AUTHOR: Tori Spelling
+PRICE: 478.39
+STOCK: 504
+ 
+--------------------------------------------------
+ 
+ID: 965
+NAME: Confessions of a Kamikaze Cowboy
+AUTHOR: Dirk Benedict
+PRICE: 418.43
+STOCK: 616
+ 
+--------------------------------------------------
+ 
+LIST-WHERE-PRICE-LESS,60.24
+********************
+ID: 563
+NAME: Blonde
+AUTHOR: Joyce Carol Oates
+PRICE: 55.05
+STOCK: 781
+ 
+--------------------------------------------------
+ 
+ID: 595
+NAME: A Boy Scout in Hollywood
+AUTHOR: Brian Hayes
+PRICE: 50.69
+STOCK: 139
+ 
+--------------------------------------------------
+ 
+ID: 724
+NAME: Still Me
+AUTHOR: Christopher Reeve
+PRICE: 57.09
+STOCK: 855
+ 
+--------------------------------------------------
+ 
+LIST-WHERE-PRICE-BETWEEN,60.67_65.42
+********************
+ID: 858
+NAME: The Player
+AUTHOR: Michael Tolkin
+PRICE: 62.1
+STOCK: 592
+ 
+--------------------------------------------------
+ 
